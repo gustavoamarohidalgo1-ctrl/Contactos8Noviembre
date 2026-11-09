@@ -1,0 +1,12 @@
+OK: permiso de lectura y acceso a agenda
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+OK: crear tres contactos desde intent externo
+OK: abrir marcador (sin llamar)
+OK: Teléfono de Google identifica a Ana en llamada virtual sin Contactos de Google activo
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+OK: añadir número desde INSERT_OR_EDIT
+OK: cancelar y confirmar borrado
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+OK: modo oscuro

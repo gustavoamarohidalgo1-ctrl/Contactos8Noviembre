@@ -1,0 +1,8 @@
+
+pe.gustavo.contactoslite.ContactsRepositoryTest:........
+Test results for InstrumentationTestRunner=........
+Time: 0.661
+
+OK (8 tests)
+
+

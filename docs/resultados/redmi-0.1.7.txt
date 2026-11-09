@@ -1,0 +1,6 @@
+OK: historial abre la ficha correcta y Volver retorna a Teléfono.
+OK: Ver contactos abre la agenda y Volver retorna a Teléfono.
+OK: crear desde teclado conserva número, sin aviso falso; cancelar y volver funcionan.
+OK: sin guardar ni borrar contactos; recuento sin cambios y teclado limpio.
+versionCode=8 minSdk=28 targetSdk=35
+versionName=0.1.7

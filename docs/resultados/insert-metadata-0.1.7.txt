@@ -1,0 +1,5 @@
+OK: name + phone
+OK: tracing_intent_id Long
+OK: tracing_intent_id String
+OK: email
+OK: INSERT_OR_EDIT tracing_intent_id Long

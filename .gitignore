@@ -1,0 +1,10 @@
+.gradle/
+**/build/
+local.properties
+.signing/
+.tools/
+.local.env
+.DS_Store
+*.hprof
+*.log
+__pycache__/

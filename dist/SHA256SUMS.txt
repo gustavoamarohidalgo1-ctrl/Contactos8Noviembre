@@ -1,0 +1,1 @@
+12c18d72c1e7dbff0c5a54fec1e750c92d71e03168644880dd22a248eb468b0d  dist/ContactosLite-0.1.7.apk

@@ -1,0 +1,9 @@
+<resources>
+    <plurals name="contact_count">
+        <item quantity="one">%d CONTACTO</item>
+        <item quantity="other">%d CONTACTOS</item>
+    </plurals>
+    <string name="empty_contacts">Aún no tienes contactos.</string>
+    <string name="empty_search">No encontramos contactos para esta búsqueda.</string>
+    <string name="contacts_load_error">No se pudieron cargar los contactos.</string>
+</resources>

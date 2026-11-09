@@ -1,0 +1,4 @@
+OK: search by accent and secondary phone; rotated draft retained and discarded
+OK: search and scroll position survive opening and returning from detail
+OK: external QUICK_CONTACT and canceled EDIT return to caller
+OK: rapid search and navigation finish on the requested detail
